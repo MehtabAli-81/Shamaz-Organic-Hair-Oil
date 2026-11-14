@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="SHAMAZ botanical mark">
+  <rect width="128" height="128" rx="64" fill="#4F6F64"/>
+  <circle cx="64" cy="64" r="51" fill="none" stroke="#FAF8F4" stroke-opacity=".78" stroke-width="1.5"/>
+  <path d="M64 95V42m0 30c-18 0-30-11-32-27 16 0 30 8 32 27Zm0-15c2-16 16-27 32-27-2 16-14 27-32 27Z" fill="none" stroke="#FAF8F4" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  <path d="M49 97h30M55 104h18M64 25c6 5 8 11 7 17-5 2-9 2-14 0-1-6 1-12 7-17Z" fill="none" stroke="#DAB56F" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4"/>
+</svg>
